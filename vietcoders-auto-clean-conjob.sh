@@ -28,5 +28,7 @@ echo "                       Bạn có muốn thiết lập lại không.?"
 echo ""
 echo ""
 pause ' Nhấn [Enter] để thiết lập tuỳ chỉnh theo ý | Nhấn CTRL + C để sử dụng mặc định';
+echo ""
+echo ""
 echo "===================================================================================="
 nano /root/crontab -e;
